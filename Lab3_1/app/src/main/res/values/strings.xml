@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Lab3_1</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="Menus">Menus Exercises</string>
+    <string name="external_link">External Activities</string>
+    <string name="Titles">List of Lab 3 exercies</string>
+    <string name="EggTimer">Egg Timer</string>
+    <string name="zoo">Zoo</string>
+    <string name="Map">Open Map</string>
+    <string name="Phone">Phone Call</string>
+    <string name="external_hint">Enter Url here</string>
+    <string name="URL_button">Go</string>
+    <string name="Phone_input">Enter Phone Number</string>
+    <string name="Map_input">Enter Locations</string>
 </resources>
