@@ -5,5 +5,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".EggTimerActivity">
-
+    <EditText
+        android:id="@+id/TimeInput"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="@string/EggTimerText"/>
+    <Button
+        android:id="@+id/TimeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TimeInput"
+        android:text="Start CountDown"/>
 </android.support.constraint.ConstraintLayout>

@@ -19,4 +19,6 @@
     <string name="Mamals">Mamals</string>
     <string name="Sheep">Cute Sheep</string>
     <string name="Wolf">Brave Wolf</string>
+    <string name="EggTimerText">Enter Second here</string>
+    <string name="TimeCount">Time here</string>
 </resources>
