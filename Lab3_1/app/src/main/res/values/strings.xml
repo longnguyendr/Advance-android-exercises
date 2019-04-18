@@ -15,4 +15,8 @@
     <string name="URL_button">Go</string>
     <string name="Phone_input">Enter Phone Number</string>
     <string name="Map_input">Enter Locations</string>
+    <string name="Bird">Bird</string>
+    <string name="Mamals">Mamals</string>
+    <string name="Sheep">Cute Sheep</string>
+    <string name="Wolf">Brave Wolf</string>
 </resources>

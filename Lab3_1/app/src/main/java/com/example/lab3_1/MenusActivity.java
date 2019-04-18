@@ -20,7 +20,6 @@ public class MenusActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.bgcolor, menu);
         return true;
