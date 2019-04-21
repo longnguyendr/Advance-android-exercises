@@ -3,4 +3,15 @@
     <string name="URL_input">Enter URL here</string>
     <string name="URL_Button">Send</string>
     <string name="URL_button">Send</string>
+    <string name="SimpleHttp">SimpleHttp</string>
+    <string name="SimpleHttp_button">View Activity</string>
+    <string name="StockMonitorV2">StockMonitorV2</string>
+    <string name="StockMonitorV2_button">View Activity</string>
+    <string name="StockMonitor_button">View Activity</string>
+    <string name="StockMonitor">StockMonitor</string>
+    <string name="companyName">CompanyName</string>
+    <string name="stockPrice">Stock Price</string>
+    <string name="add_button">Add</string>
+    <string name="Stock_id">Enter Stock Id</string>
+    <string name="Stock_name">Enter Stock Name</string>
 </resources>
